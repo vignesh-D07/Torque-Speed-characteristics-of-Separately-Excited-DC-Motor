@@ -1,5 +1,6 @@
-# Torque-Speed-characteristics-of-Separately-Excited-DC-Motor
-
+# Torque-Speed-characteristics-of-Separately-Excited-DC-Motor1
+# Name: VIGNEH D 
+# Reg No: 212224050059
 ## AIM
 To simulate and analyze the torque-speed characteristics of Separately excited DC Motor MATLAB/Simulink.
 
@@ -35,14 +36,19 @@ To simulate and analyze the torque-speed characteristics of Separately excited D
 17.	Analyze and record your inference.
     
 ## Observation Table
-<img width="445" height="272" alt="image" src="https://github.com/user-attachments/assets/a9f939ea-cd8e-4055-b4f3-78b088dd0ad6" />
+<img width="1518" height="1600" alt="image" src="https://github.com/user-attachments/assets/8340b888-1c88-48e9-befa-d6473b68ab1c" />
+
 
   ## Graph (Torque Speed Characteristics)
+<img width="1485" height="1599" alt="image" src="https://github.com/user-attachments/assets/8178bfc7-01a4-4a41-bcd6-c6c4d39fc117" />
+<img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/9057a0bb-2bb8-4549-8da0-59871f5858f6" />
 
 
   ## MATLAB Simulation Output
 
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/f0c92fe9-7cbe-464e-addc-53be6d763b1e" />
 
 
   ## Result
-
+      
+The simulation and analyze the torque-speed characteristics of Separately excited DC Motor MATLAB/Simulink done successfully. 
